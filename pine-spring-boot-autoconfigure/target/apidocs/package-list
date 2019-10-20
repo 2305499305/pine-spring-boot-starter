@@ -1,0 +1,15 @@
+com.github.thierrysquirrel.annotation
+com.github.thierrysquirrel.autoconfigure
+com.github.thierrysquirrel.core.constant
+com.github.thierrysquirrel.core.factory.execution
+com.github.thierrysquirrel.core.utils
+com.github.thierrysquirrel.error
+com.github.thierrysquirrel.init
+com.github.thierrysquirrel.netty.service
+com.github.thierrysquirrel.netty.service.core.factory
+com.github.thierrysquirrel.netty.service.core.factory.constant
+com.github.thierrysquirrel.netty.service.core.factory.execution
+com.github.thierrysquirrel.netty.service.core.thread
+com.github.thierrysquirrel.netty.service.core.thread.execution
+com.github.thierrysquirrel.netty.service.event
+com.github.thierrysquirrel.netty.service.init
