@@ -12,7 +12,7 @@
     <artifactId>pine-spring-boot-autoconfigure</artifactId>
 
     <name>pine-spring-boot-autoconfigure</name>
-    <description>Spring Boot Support for pine</description>
+    <description>pine-spring-boot-autoconfigure</description>
 
     <dependencies>
         <dependency>

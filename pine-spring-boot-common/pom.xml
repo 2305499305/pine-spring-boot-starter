@@ -12,7 +12,7 @@
     <artifactId>pine-spring-boot-common</artifactId>
 
     <name>pine-spring-boot-common</name>
-    <description>Spring Boot Support for pine</description>
+    <description>pine-spring-boot</description>
 
     <dependencies>
         <dependency>

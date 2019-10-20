@@ -12,7 +12,7 @@
     <artifactId>pine-spring-boot-starter</artifactId>
 
     <name>pine-spring-boot-starter</name>
-    <description>Spring Boot Support for pine</description>
+    <description>pine-spring-boot-starter</description>
 
     <dependencies>
         <dependency>

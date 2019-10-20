@@ -10,7 +10,7 @@
     <version>1.0.1-RELEASE</version>
 
     <name>pine-spring-boot</name>
-    <description>Spring Boot Support for pine</description>
+    <description>pine-spring-boot</description>
     <url>https://github.com/ThierrySquirrel/pine-spring-boot-starter</url>
 
     <parent>
