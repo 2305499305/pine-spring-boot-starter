@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.52679193" />
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd9da570-934a-4cc2-adac-e497df9279d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pine-spring-boot" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SKF76zEi9Ac9XK0uufSdVIoKOO" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pine-spring-boot-autoconfigure/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.github.thierrysquirrel.netty.core.client.factory" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.thierrysquirrel.netty.core.constant" />
+      <recent name="com.github.thierrysquirrel.netty.core.factory.execution" />
+      <recent name="com.github.thierrysquirrel.netty.core.domain" />
+      <recent name="com.github.thierrysquirrel.netty.core.client.factory" />
+      <recent name="com.github.thierrysquirrel.core.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pine-spring-boot\pine-spring-boot-autoconfigure\src\main\resources" />
+      <recent name="D:\pine-spring-boot\pine-spring-boot-autoconfigure\src\main\resources\static" />
+      <recent name="D:\pine-spring-boot\pine-spring-boot-autoconfigure\src\main\java\com\github\thierrysquirrel\netty\service" />
+      <recent name="D:\pine-spring-boot\pine-spring-boot-common\src\main\java\com\github\thierrysquirrel\netty\core\factory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HeartbeatFactory">
+    <configuration name="HeartbeatFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.thierrysquirrel.netty.service.core.factory.HeartbeatFactory" />
+      <module name="pine-spring-boot-autoconfigure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.thierrysquirrel.netty.service.core.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeartbeatUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.thierrysquirrel.netty.service.core.utils.HeartbeatUtils" />
+      <module name="pine-spring-boot-autoconfigure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.thierrysquirrel.netty.service.core.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PineServiceBusinessThreadExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.thierrysquirrel.netty.service.core.thread.execution.PineServiceBusinessThreadExecution" />
+      <module name="pine-spring-boot-autoconfigure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.thierrysquirrel.netty.service.core.thread.execution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HeartbeatFactory" />
+        <item itemvalue="Application.HeartbeatUtils" />
+        <item itemvalue="Application.PineServiceBusinessThreadExecution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd9da570-934a-4cc2-adac-e497df9279d1" name="Default Changelist" comment="" />
+      <created>1571304209395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571304209395</updated>
+      <workItem from="1571304211864" duration="14231000" />
+      <workItem from="1571376139703" duration="27990000" />
+      <workItem from="1571459365450" duration="105000" />
+      <workItem from="1571459502245" duration="14344000" />
+      <workItem from="1571495990727" duration="416000" />
+      <workItem from="1571497161526" duration="2744000" />
+      <workItem from="1571542314193" duration="12550000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
